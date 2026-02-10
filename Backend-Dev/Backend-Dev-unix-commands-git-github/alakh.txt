@@ -11,4 +11,14 @@ GIT Commands:
 10)git push origin feature-branch:- it can be used to push a file from local to remote at that particular branch 
 11) git pull origin feature-branch:- it can be used to pull the filr from remote to local setup from that particular branch
 12) pwd:-  Print working directory
-13) ls:- List directory contents 1eate a branch from main branch 
+13) ls:- List directory contents
+14) mkdir dirname:- Create directory
+15)rm filename:- Remove file
+16) git rm -rf .:- it can remove all the flie from that branch
+17) git status:- status of the repository
+18) git log:- view commit history
+19) git branch feature-branch:- Create a branch from main branch 
+20) git checkout feature-branch :- move from main branch to that branch 
+21) git checkout -b new-feature:- Create and move from that branch in one command
+22) git branch -m old-name new-name :- rename branch 
+23) git branch -r :- List of remote branch
