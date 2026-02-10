@@ -1,0 +1,14 @@
+GIT Commands:
+1) git init:- when we start new git repo.
+2) git clone:- remote repo ko local/system me copy krte hai 
+3) git status:- give the status 
+4) git add (filename):-select the file which you want to upload from local system to repo 
+5) git add . :- it can select all the file includes the hidden file and upload to remote repo
+6) git commit -m "message" :- it can give the message while commit the file which is easy to track
+7) git push origin main :- in this command the file will upload to the remote repo
+8) git pull origin main :- in this command it pull the file from remote to local system 
+9) git remote add origin (git url):- it can give the url of that repo which you want to add these files.
+10)git push origin feature-branch:- it can be used to push a file from local to remote at that particular branch 
+11) git pull origin feature-branch:- it can be used to pull the filr from remote to local setup from that particular branch
+12) pwd:-  Print working directory
+13) ls:- List directory contents 1eate a branch from main branch 
