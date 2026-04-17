@@ -1,2 +1,1 @@
-# backend-dev
-here i will do programming based on BridgeLabsTraining
+https://shop-wave-ecommerce-project.vercel.app/
